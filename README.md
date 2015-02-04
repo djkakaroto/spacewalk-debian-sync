@@ -25,3 +25,4 @@ spacewalk-cron
 ==============
 An script cron to sync repositories from ubuntu and zentyal.
 
+Could you please open the issue tracker? There are some things to fix :)
